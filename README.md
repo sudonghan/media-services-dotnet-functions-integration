@@ -40,7 +40,7 @@ reflected quickly in your own Functions deployment.
 
 We are doing this to save you from our future updates that could break your functions due to continuous integration.
 
-**WARNING**: If you attempt to deploy from the public samples Github repo, and not your own fork, you will see an Error during deployment with a "BadRequest" and an OAuth exception. 
+**WARNING**: If you attempt to deploy from the public samples GitHub repo, and not your own fork, you will see an Error during deployment with a "BadRequest" and an OAuth exception. 
 
 ## Questions & Help
 
